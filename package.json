@@ -1,0 +1,32 @@
+{
+  "name": "grabshot",
+  "version": "1.0.0",
+  "description": "Take website screenshots with a simple API. Powered by GrabShot.dev",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "screenshot",
+    "website-screenshot",
+    "screenshot-api",
+    "webpage-capture",
+    "url-to-image",
+    "web-screenshot",
+    "puppeteer-alternative",
+    "screenshot-service",
+    "og-image",
+    "thumbnail"
+  ],
+  "author": "GrabShot <hello@grabshot.dev>",
+  "license": "MIT",
+  "homepage": "https://grabshot.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aitaskorchestra/grabshot-node"
+  },
+  "bugs": {
+    "url": "https://github.com/aitaskorchestra/grabshot-node/issues"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
